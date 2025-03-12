@@ -1,4 +1,9 @@
-## Hi there 👋
+Hi, I'm Laura @lauralisauskaite
+
+🔭 I'm a social data scientist interested in bringing together data, fashion, and social science perspectives
+
+📫 reach me at lauralisauskait@gmail.com
+
 
 <!--
 **lauralisauskaite/lauralisauskaite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
