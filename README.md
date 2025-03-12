@@ -1,4 +1,4 @@
-Hi, I'm Laura @lauralisauskaite
+Hi, I'm Laura!
 
 🔭 I'm a social data scientist interested in bringing together data, fashion, and social science perspectives
 
